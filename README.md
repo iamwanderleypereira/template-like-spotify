@@ -1,5 +1,5 @@
 # template-like-spotify
-## This exercise is a project from the course.
+## This exercise is a project.
 
 Objective
  - Design and develop of a HTML website using Bootstrap 4
